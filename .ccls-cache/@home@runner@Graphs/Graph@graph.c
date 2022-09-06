@@ -9,7 +9,7 @@ struct graph {
 
 void menu() {
 
-  printf("\n1 - INSERT\n2 - LIST\n3 - DESTROY\n4 - INSERT VERTEX\n5 - REMOVE\n:");
+  printf("\n1 - INSERT\n2 - LIST\n3 - DESTROY\n4 - INSERT VERTEX\n:");
 }
 
 void empty(Graph *graph, int v) {
