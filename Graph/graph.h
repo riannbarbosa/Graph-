@@ -20,4 +20,9 @@ void GRAPHremove(Graph *g, Edge edge);
 
 void GRAPHdestroy(Graph *g);
 
+void print_graph(Graph *g);
+
+void printList(Graph *g);
+void empty(Graph *g, int v);
+void menu();
 #endif
